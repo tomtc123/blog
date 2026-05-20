@@ -24,6 +24,10 @@ zensical serve
 zensical build --clean
 ```
 
+## 部署
+### Github Pages
+
+
 ## 参考
 * [Zensical文档](https://zensical.org/docs/get-started/)
 * [Zensical中文教程](https://wcowin.work/Zensical-Chinese-Tutorial/getting-started/quick-start/)
