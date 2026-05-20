@@ -26,6 +26,12 @@ zensical build --clean
 
 ## 部署
 ### Github Pages
+#### 自动部署
+1. 开启自动部署，`Build and deployment/Souce` 选择 `Github Actions`
+![alt text](build-and-deployment-souce.png)
+
+2. 设置Actions权限, `Actions/General`
+![alt text](workflow-permissions.png)
 
 
 ## 参考
