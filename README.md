@@ -6,7 +6,7 @@
 
 ```bash
 # 安装依赖
-uv pip install zensical
+uv add --dev zensical
 
 # 启动本地开发服务器（支持热重载）
 zensical serve
