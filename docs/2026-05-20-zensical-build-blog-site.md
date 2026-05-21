@@ -1,6 +1,5 @@
 ---
 icon: lucide/rss
-
 title: Zensical搭建博客
 date: 2026-05-20
 categories:
@@ -15,7 +14,7 @@ categories:
 ```python
 uv init
 uv venv
-uv pip install zensical
+uv add --dev zensical
 ```
 ### 创建项目
 ```python
