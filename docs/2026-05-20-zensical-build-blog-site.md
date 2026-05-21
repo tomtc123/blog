@@ -1,3 +1,13 @@
+---
+icon: lucide/rss
+
+title: Zensical搭建博客
+date: 2026-05-20
+categories:
+  - 技术
+  - Python
+---
+
 # Zensical搭建博客
 ## 环境准备
 ### 安装Zensical
@@ -28,10 +38,10 @@ zensical build --clean
 ### Github Pages
 #### 自动部署
 1. 开启自动部署，`Build and deployment/Souce` 选择 `Github Actions`
-![alt text](build-and-deployment-souce.png)
+![alt text](./images/build-and-deployment-souce.png)
 
 2. 设置Actions权限, `Actions/General`
-![alt text](workflow-permissions.png)
+![alt text](./images/workflow-permissions.png)
 
 
 ## 参考
