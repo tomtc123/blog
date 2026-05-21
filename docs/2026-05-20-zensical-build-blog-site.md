@@ -42,6 +42,26 @@ zensical build --clean
 2. 设置Actions权限, `Actions/General`
 ![alt text](./images/workflow-permissions.png)
 
+## Content Tabs && Code Blocks
+
+> [Content Tabs](https://zensical.org/docs/authoring/content-tabs/)
+> [Code Blocks](https://zensical.org/docs/authoring/code-blocks/)
+
+=== "Python"
+
+    ```python linenums="1" hl_lines="2"
+    def hello():
+        print("Hello Python")
+    ```
+
+=== "Lua"
+
+    ```Lua linenums="10"
+    local function hello()
+        print("Hello Lua!")
+    end
+    ```
+
 
 ## 参考
 * [Zensical文档](https://zensical.org/docs/get-started/)

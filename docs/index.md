@@ -1,6 +1,6 @@
 ---
 icon: lucide/rocket
-title: 博客
+title: 首页
 ---
 
-# 博客
+# 首页
