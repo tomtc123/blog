@@ -177,9 +177,8 @@ def hello():
 ### Sub and superscripts
 
 $$
-H_2O
-
-A^TA
+H_{2}O \
+A^{T}A
 $$
 
 $$
