@@ -1,13 +1,13 @@
 ---
 icon: lucide/rss
-title: Zensical搭建博客
+title: 搭建博客
 date: 2026-05-20
 categories:
   - 技术
   - Python
 ---
 
-# Zensical搭建博客
+# 搭建博客
 ## 环境准备
 ### 安装Zensical
 选择一个合适的位置，创建项目目录，进入目录，终端执行:
