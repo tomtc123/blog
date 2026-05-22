@@ -11,7 +11,7 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation"
+site_name = "Blog"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
@@ -99,7 +99,7 @@ extra_javascript = [
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-#favicon = "images/favicon.png"
+#favicon = "images/favicon.svg"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -221,7 +221,7 @@ features = [
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
     # https://zensical.org/docs/setup/navigation/#navigation-tabs
-    "navigation.tabs",
+    #"navigation.tabs",
 
     # When sticky tabs are enabled, navigation tabs will lock below the header
     # and always remain visible when scrolling down.
@@ -260,7 +260,7 @@ features = [
 # option in the "theme" subsection. The logo must be a relative path to a file
 # in your "docs_dir", e.g., to use `docs/assets/logo.png` you would set:
 # ----------------------------------------------------------------------------
-#logo = "assets/logo.png"
+#logo = "images/logo.svg"
 
 # ----------------------------------------------------------------------------
 # If you don't have a dedicated project logo, you can use a built-in icon from
@@ -306,9 +306,9 @@ toggle.name = "Switch to light mode"
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/tomtc123"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
