@@ -1,7 +1,7 @@
 ---
 icon: lucide/zap
 title: FastAPIcloud部署
-date: 2026-05-20
+date: 2026-05-22
 categories:
   - 技术
   - Python
@@ -43,3 +43,5 @@ Deploying to FastAPI Cloud...
 🐔 Ready the chicken! Your app is ready at https://myapp.fastapicloud.dev
 ```
 
+# 参考
+[FastAPI doc](https://fastapicloud.com/docs/getting-started/)
